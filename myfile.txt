@@ -1,0 +1,2 @@
+ Cost OS app server restart
+UKPNCOSPRAP01 -- Check the server and services are up & running -- start -- services -- nomiteach CostOS -- restart
