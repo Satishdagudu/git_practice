@@ -1,0 +1,556 @@
+12/10 INC0788250 -- P6 Deletion account  -- satish
+
+--> User wants to delete account permentaly leslie.stubbs@ukpowernetworks.co.uk.
+--> Only admin can delete or add users
+--> P6 Admin - Dhivya shivraj
+-->
+
+------------------------------------------------------------------------------------------------------------------------
+17/10  INC0789191 -- P6:Unable to save the template  -- recived to krishna 
+
+--> User is trying to open a layout for a programme usually crashes, forces to stop in task manager.
+--> checked with user issue, Trouble shooted the Issue. Waiting for the User Confirmation.
+--> Mail to  CTS Service desk
+--> Could you please uninstall P6 for the user : akinola.onamade@ukpowernetworks.co.uk . And let us know.
+--> CTS person re-install the P6 
+--> Users can save the templete now
+
+------------------------------------------------------------------------------------------------------------------------
+19/10 INC0789939 -- P6: unable to access -- received to krishna
+
+--> User while Accessing the Primavera User is Getting Error : VTDCF-2962-6.
+--> Tried to resolve the Issue checked the connection string & Re setted the user preferences. Unable to fix the Problem.
+--> Mail to CTS Service desk
+--> Could you please uninstall the P6 from user machine.
+--> Reinstalled the P6 on User machine. Now user can Access the P6 with out any Errors. As per user request left the incident open until tomorrow morning for observation
+--> User can access P6
+
+------------------------------------------------------------------------------------------------------------------------
+14/11 INC0796219 -- Primavera P6 - Unable Access Application  received to Satish
+
+--> User while clicking I am receiving an error message when trying to login to P6. I couldn't select the host name so have selected one on there- I think mine is W10-DJcArmdx6z0
+--> We are connected with user and checked the error and we are asking business that user is active or not.
+--> User spoke with with Dhivya and now have access to P6
+
+------------------------------------------------------------------------------------------------------------------------
+21/11 INC0797907 -- Primavera P6 : unable to print, Changing the Layout of the Print. -- Received to Krishna
+
+--> Trying to Find the file : pm.ini file
+--> Mail to CTS Service desk
+--> Could you Please Unistall the Primaver P6 from the User machine : lee.humphrey@ukpowernetworks.co.uk. If possible Please reinstall the Software
+--> We have uninstalled the existing version of P6 (21.8) and began the installation of 23.10 from the Company Portal. We will check back in once this has completed
+--> Checked in with Lee and confirmed the reinstallation had completed successfully, and that the printing issue is now resolved
+
+------------------------------------------------------------------------------------------------------------------------
+21/11 INC0798059 -- CostOS - unable to Open -- Received to Krishna 
+
+--> Please see error message attached when trying to open database
+--> We are checked from the our end and schedule team meeting with Dimitris 
+--> Connected with user, User had forget the password. We are trying to resolve the Issue.
+--> Dimitris - If he forgot his password, he should ask from a CostOS administrator to reset his password.I am not a CostOS administrator.
+--> In b/w call
+--> Check CostOS host : 1..11.130.56.8080
+--> Are you working for the Mark Brownwich , Micheal purcell 
+--> We will send a mail.He will reach out to you and provide details, from our side we will follow up  and you also follow up yours side.
+--> We have received a Incident : INC0798059 user is unable to Login CostOS workstation Authentication Error. Could you please reset the password of user : robert.branzila@ukpowernetworks.co.uk.
+--> Mark Brownwich checked with users and get details.
+--> Now User can login and access the CostOS
+
+------------------------------------------------------------------------------------------------------------------------
+28/11  INC0799332 --Primaver P6 - User unable to Login  --  Received to Satish
+
+--> user called back and after reinstalling application and restarting machine this issue was still ongoing > user could not click onto "login name" or "password" as these appear to be greyed out 
+--> Conneted call vai Teams
+--> We have raised a mail P6 adim Dhivya shiraj
+--> We have checked on the Primavera Administration, but we cannot find the user details , User ID - muhammad.jovindha@ukpowernetworks.co.uk please check that Jovindha is a valid user. If not, is it possible to give access?
+--> I work and manage Primavera systems only for capital programme projects not for services. You will need to contact the relevant person from services.
+--> we have checked with lawerence brown lucie
+-->  possible could you please Provide New P6 License
+--> Hi, he is in the AD Group which is the part we manage, please =reach out to David Gabbe or Tom Tindale to have them added to the application.
+--> TOM - Believe you need to talk to Lee Humphry or someone within services to get access to their database
+--> Now user got access and can work on it
+
+
+------------------------------------------------------------------------------------------------------------------------
+29/11 INC0799836 Primavera P6 : Software Functionality issue  -- received to Krishna 
+
+--> As the user was previously having this looked at by CTS under "INC0797907" > Passing to CTS to check and assist further.
+--> Lukke Duffy -- Passing to Applications - NON-SAP to assist further. The application was uninstalled and reinstalled last week under INC0797907, but the issue has returned this week.
+--> We have connected with the user and raise ticket in Oracle support  
+--> TO Beth -- User Want to generate PDF file by pressing Print button. But Error is coming on P6. Please arrange a Meeting by that we can look in to these issue. Because user is not having work around.
+    We have done all the basic checks. But still problem is not resolved.
+--> Beth -- Please have the user uninstall the Adobe print driver and before reinstalling confirm that they have the latest driver from Adobe.Test the issue and report the results.
+--> Mail to Service Desk
+--> Could you please Uninstall the Adobe print drivers from user machine & reinstall with Latest Adobe Drive.
+
+
+------------------------------------------------------------------------------------------------------------------------
+08/12 INC0801926  -- P6 unable to access    --  Received to Satish
+
+--> User can open the P6, but files are loading frequently
+--> which version are you using
+--> Are you using UKPN enviromnet or Home
+--> P6 login page -- click edit , uncheck box click test  
+--> how are files you open go to tast maneger option 
+--> 
+ 
+
+--> we will reset ur account
+--> we need to speak with cloud team regarding the issue
+--> We have transfers ticket to CTS service desk to reinstall the P6.
+--> User is access files now Telling us to stop the reinstall process
+--> We update on the ticket
+--> User can be able to work now 
+--> We have update to CTS desk to close the incident
+--> CTS closed the incident
+
+
+------------------------------------------------------------------------------------------------------------------------
+12/12  INC0802696  -- P6 unable to access    --  Received to Satish
+
+--> User unable to load P6 files, slow loading issue
+--> We have connected with the user, we have given all the basic setting and also we checked that user is using latest Primavera Version 23.10, but still user is unable to load templates we have requested user to check latency speed.
+--> morning, its manageable not as fast as before.
+--> We had connected with the user as per the call conversation, and the user accepted to uninstall and re-install the application. so that we can transfer ticket to the CTS desk team.
+--> Mail to CTS Desk team
+--> Could you please uninstall the P6 software from user machine & Reinstall in User machine.Username : ogba.igwe@ukpowernetworks.co.uk
+--> Removed software Unable to reinstall the software as its not showing on company portal Checked users account and i dont see a licence applied for Primaver 
+--> User to raise a request for Primavera as it looks like the software was installed manually Called user to advise to request via MyIT - User will request the software via MyIT
+
+
+------------------------------------------------------------------------------------------------------------------------
+20/12  INC0804254 -- P6 Primavera P6 - Access issue ( Global admin ) -- Received to satish
+
+--> USer -- unable to login I have logged into Oracle Primavera Cloud and cannot access the global admin user admin area. I have had access to this for the last 2 years as it is my responsibility to set-up new users. 
+--> we will check with bussniess and update you.
+--> we have connected with bussiness and will discuss what's the issue
+--> Dhivya -- unable to find the OPC admin console admin tab
+--> As per dhivya request we raised ticket to oracle support team.
+--> Beth -- An OPC Application Administrator needs to login to OPC, go to Global Admin > Users, click the gear icon to the left of the user and select Edit User Details.
+-->
+-->
+-->
+-->
+-->
+-->
+-->
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+06/01 INC0807048 -- COSTOS -- Error : Accessing host and authentication failure. -- Received to Krishna
+
+-->
+-->
+-->
+-->
+
+------------------------------------------------------------------------------------------------------------------------
+11/01  INC0808155 -- Primavera P6 -- Primavera P6 : Application Frozen -- Received to Krishna
+
+--> User advised they are having issues with P6 Primavera it keeps freezing and they are unable to use some filters as well, remoted on and took screenshot, assigning to Applications NON-SAP for further assistance
+--> Connected with User & Find out that User P6 Application is Frozen Unable to move forward. Always User use to Restart the Laptop.
+--> mail to CTS desk
+--> We had provided all the settings also checked Database connectivity but the problem remains same.  
+    Could you please uninstall the P6 software from User machine & reinstall the New p6 Software version 24.10.
+--> 
+
+------------------------------------------------------------------------------------------------------------------------
+12/01 Primavera P6 : Error UCDT-3581-D Error : VTDCF-4089-D -- Primavera P6 : Application Frozen -- Received to Krishna
+
+--> isue: Primavera P6 not responding or crashes with error code - flagged to PMO for info. Network or laptop hardware issue - no reported P6 issue raised across the business. Appears to be localised to my laptop / rebuild configuration.
+--> Notes:Connected with User & Trouble shotted the issue. User can Access the P6 Application properly with out interruption. As per user request we left the ticket open For observation of P6 Application until Monday Morning.
+--> Earlier he was connetec with the Admin Dhivya regarding issue 
+------------------------------------------------------------------------------------------------------------------------
+16/01 INC0809169 Primavera P6 : Primavera Unifier - Unable to Add new Account. -- received to krishna
+
+--> When adding a new account for Andy Bradshaw (Andy.R.Bradshaw@kier.co.uk) on OPC, it says he is linked to another company account on Primavera administrator even though I've checked it and he is in fact linked to Kier. This means I can't set him up correctly as it keeps linking him with another account incorrectly. MCN on Primavera administrator is linked to Kier on OPC as they are the same company. Never heard of Pennon and it's not even an option on Primavera administrator!
+--> we raise to oracle support team
+--> These issue will be fixed in Oracle cloud. So we had raised a ticket with Oracle Support getting it followed up.Ticket Number: 3-35462685441
+--> Could you please arrange a Meeting & share the Meeting Link.
+-->
+
+------------------------------------------------------------------------------------------------------------------------
+16/01 INC0809174 OPC account deletion is not done fully.  -- received to Satish
+
+--> I previously logged INC0788250 to delete an existing account on OPC as it needed to be linked to a new company and this couldn't be changed so needed to be deleted so I could add them again from scratch. This was supposedly done as they disappeared from OPC and couldn't be found but when I tried to add them again, I got the attached error message stating the username was not unique and already exists. Please can this be fully deleted from the back end and finally resolved.
+--> we have raise ticket to Oracle support to resolve
+--> We had raise a ticket with oracle support SR - 3-35462251511, These is Linked with old SR : 3-34560759371. The problem is half resolved. We can see the Account again on the OPC. I request you to please Arrange a call & resolve the issue ASAP.
+--> we confirm kelly -- Your are right. The user is leslie.stubbs@ukpowernetworks.co.uk
+-->
+-->
+-->
+-->
+-->
+----------------------------------------------------------------------------------------------------------------------------
+30/01 INC0812378 -- Primavera P6 - Unable to login -- received to Satish
+
+--> user called unable to log in to P6 application > when user clicks on login Name the box cannot be clicked on this is the same for password > 
+Passing to CTS as this was the populated resolver team > have not emailed Dhivya.Sivaraj@ukpowernetworks.co.uk,David.Gabbe@ukpowernetworks.co.uk yet as unsure if account is locked as unable to click and attempt to sign in > user has also not been advised of a password to use yet
+--> 
+-->
+-->
+-->
+-->
+-->
+-->
+-->
+
+----------------------------------------------------------------------------------------------------------------------------
+
+13-02 INC0816098 -- CostOS - Cost OS wrong version installed 8.3 -- Received to Satish
+
+--> Passing to Applications - NON-SAP to assist or advise on the issues preventing Paul from being able to login to CostOS
+--> Connected with the user found that user had installed wrong Cost OS version 8.3 and we advise them install Cost OS version 6.0
+--> Transfer to CTS Team
+--> Could you please Un-install the Cost OS version - 8.3 and Re-Installed the Cost OS version - 6.0 software from user machine
+    Username : paul.francis@ukpowernetworks.co.uk
+
+--> Denis McClafferty -- Called user who confirmed that the software has installed and can log in successfully
+
+----------------------------------------------------------------------------------------------------------------------------
+14/02 INC0816613 -- CostOS - Unable to Login  -- Received to Krishna
+
+--> Error Message: Host not found. Error accessing host. Authentication failure 
+--> We are working try to login after
+--> Andrew Mccoll -- User call in to advise issue going again
+--> I am checking with the User ... Thank you
+--> As per User request we are leaving these ticket open Until today EOD.Reason : Observation of Cost OS Application performance.
+--> user is in leave return date is 20-Feb
+-->
+-->
+
+----------------------------------------------------------------------------------------------------------------------------
+14/02 INC0817105 -- CostOS - Unable to Login  -- Received to Krishna
+
+--> Hostname: W10-DJDoNORHrzx  Application: CostOS  Description: User getting attached error when signing into CostOS 
+--> Hi Mark, Please try to login in another 10 mins thank you..
+--> We have checked with the user now mark can can access the cost os application 
+--> Incident has been resolved
+
+----------------------------------------------------------------------------------------------------------------------------
+05/03 INC0821002 - CostOS - Unable to login -- Received to Satish
+
+--> W10-DJ0XTDU4r5B Application: Cost OS User getting attached erroe when sign in the Cost OS application 
+--> Connected with user and trouble shoot out - Wrong installation 
+--> Transfer to CTS Team -- Luke Duffy
+--> Could you please Un-install the Cost OS version - 8.3 and Re-Installed the Cost OS version - 6.0 software from user machine
+    Username : swithun.chakwakwama@ukpowernetworks.co.uk
+--> Duffy -- un-install not done properly then ticket has been transfer to platform managment evergreen team. 
+--> platform managment evergreen team - install the Cost OS  6 -- version  --> Suraj naik
+--> connected with suraj naik, user and vendor combining we have got an issue in the password side so we right a email to bussiness to reset the password
+--> password reset and cost os working as expected.
+----------------------------------------------------------------------------------------------------------------------------
+
+
+20/3 INC0824527 -- cost OS -- Received to krishna user - Mark Bromwich
+
+--> Cost OS application affected to 14 users
+--> Can I call Via teams please ??
+--> Comments :
+After the investigating the issue. We had came to the conclusion that some one had Accidentally Deleted the template by mistake. And it is not related to the last night cloning activity. Same had updated the Business.
+--Thank you
+--> Waiting for user confirmation to close the incident.
+--> I've gone in to Cost OS this morning and there remains an issue with the template.
+See below screen shot.
+The job that I have opened the template for is 'Court Road'. The template states 'Off Thornton Road', which is a different project
+-->Comments :
+Collecting the Databackups from SQL team to identify the old template.
+   Thank you
+--> Hi Mark,
+Apologies for the delay. We had collected the SQL data. We are awaiting for the backup ".bak file" from SQL TSM team. Once we receive these, we will start Working on it.
+--> Mark,
+Please download the template & upload it in to CostOS workstation. If have any issues, please ping me in teams. I am ready to help.
+--> Please download the template & upload it in to CostOS workstation. If have any issues, please ping me in teams. I am ready to help.
+-->
+1:34 PM] Bromwich, Mark
+Hi Krishna, I can confirm that the template is working ok
+[1:34 PM] Chaitanya, D. Krishna (Enzen Support)
+Can we close the Incident please INC0824527 ?
+[1:36 PM] Bromwich, Mark
+Yes you can close this one
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+21/03 INC0824906  -- Cost OS Received to Krishna user - Swithun Chakwakwama
+
+[3:19 PM] Chaitanya, D. Krishna (Enzen Support)
+Hi Swithun,
+We are looking in to your incident : INC0824906.
+We are working on it
+Thank you
+-->   Comments :
+Connected with User
+Trouble shooted the Schema. Waiting for Final confirmation from user to close the incident.
+--Thank you
+
+--> Chakwakwama, Swithun
+4:20 PM
+We can close the case, all sorted. Thank you so much Score : 11/10
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2/21 INC0820369  -- Primavera P6 -- recevied to user -- Thomas Tindale -- user 
+
+--> SD Update: Passing this Incident over to NON-SAP team as they will have the relationship with the vendor (Oracle).
+This issue is being looked at with Oracle so it makes sense for the application team responsible for Primavera to monitor this Incident and work with Oracle on the resolution.
+--> Comments :
+Business had raised a ticket with Oracle support & getting it followed up.
+--Thank you
+-->  Comments:
+Still Waiting a response from Oracle support vendor
+--> [2:18 PM] Chaitanya, D. Krishna (Enzen Support)
+Hi Tom,
+Can we close the primavera incidents please INC0820391, INC0820369.
+These Issue was resolved last month itself. I hope every thing is working fine.
+Thank you
+[2:18 PM] Tindale, Tom
+sure
+[2:25 PM] Chaitanya, D. Krishna (Enzen Support)
+Thank you kindly
+  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2/21 INC0820391  -- Primavera P6 
+
+ Chlid incident - INC0820369  
+
+---------------------------------------------------------------------------------------------------------------------------
+April-02  INC0826621 -- cost os  received to - Krishna user - Craig bond  code - User resloved 
+
+--> User reported needing password reset for CostOS, assigning to applications SAP for further assistance
+--> Hi Craig,
+We had guided the user to reset the password. User can now Access the Application Successfully.
+Thank you
+
+
+--------------------------------------------------------------------------------------------------------------------------
+April -04 INC0827385 -- Cost OS -- received to - Krishna  user - Swithun 
+
+--> As this is an issue with the user being unable to login to CostOS > Passing to NON-SAP to check and assist further.
+--> Hi Swithun,
+We are looking in to your issue. Can i call via teams Please ?
+Thank you 
+--> Comments :
+user is connecting to wrong IP address. Updated the user to use New IP Address: 10.11.130.56:8081
+User can now Successfully access the CostOS application with out any issues.
+--Thank you
+--> [11:15 AM] Chaitanya, D. Krishna (Enzen Support)
+Can we close the incident please INC0827385
+[11:15 AM] Chakwakwama, Swithun
+Thank you
+
+--------------------------------------------------------------------------------------------------------------------------
+April-04 INC0827414  -- Streetworks  -- Received to satish  user - Natalie Yarram  
+
+--> User requested password reset for streetworks, assigning to applications NON SAP for further assistance
+--> Hi Yarram,
+We have received your incident INC0827414 what is your free time to connect via teams please ?
+@Wakefield, Simon<mailto:simon.wakefield@ukpowernetworks.co.uk> : Is this incident related to street works (or) street manager ?
+-->  We have received your incident INC0827414 what is your free time to connect via teams please ?
+--> 2pm is good for me - I need a password reset on my CCS login page.
+--> Hello IM team,
+Reported incident is related to CCS search LAN password reset, could you please check and assist which team will be doing the password reset and assign the incident to the relevant queue.
+--> Waiting for the reply from the Incident management team
+--> Good day, Garima,
+I have emailed the user directly with a new password and asked them to confirm if the issue is resolved or further assistance needed.
+--> SD Action: email sent to user with password reset waiting on user feedback
+--> Confirmed issue resolved now able to access CCS
+
+--------------------------------
+April-09 INC0820369  -- Primavera P6  received -Krishna  User - Thomas Tindale  
+
+INC0820391  -- Parent incident 
+
+--------------------------------------
+Aril-12  INC0829053 -- Primavera P6  received to - Krishna User - Swithun Chakwakwama
+
+--> Swithun is looking to log in to P6 for the first time, but is not certain on the account details or the database configuration details for it.
+    His task for access is currently open under TASK0236746. Passing to Applications - NON-SAP to assist
+-->  Good Morning Swithun
+[10:16 AM] Chaitanya, D. Krishna (Enzen Support)
+I am looking in to your incident INC0829053
+[10:17 AM] Chaitanya, D. Krishna (Enzen Support)
+What is your free time to connect please ?
+
+--> Comments :
+User need access to Primavera requested the user to follow up the TASK0236746. Updated the User that we cannot provide the Access with incident. Hence user accepted to close the incident INC0829053.
+
+---------------------------------------
+Aril-17 INC0830126  -- Cost OS  Received to - Krishna User - Laura Gheorghe
+
+--> Unable to long in. Please see error message in the file attached
+--> Hi Laura,
+[2:17 PM] Chaitanya, D. Krishna (Enzen Support)
+I am looking in to INC0830126 .
+[2:17 PM] Chaitanya, D. Krishna (Enzen Support)
+What is the free time to call you via teams please ?
+
+--> Hi Krishna, are you happy to call me and take control of PC?
+[2:47 PM] Gheorghe, Laura
+ive downloaded the software today
+[2:51 PM] Chaitanya, D. Krishna (Enzen Support)
+10.11.130.56:8081
+[2:55 PM] Chaitanya, D. Krishna (Enzen Support)
+I am closing the INC0830126 as per conversation.
+--Thank you
+[2:55 PM] Gheorghe, Laura
+Yes, thank you
+
+---------------------------------------
+
+April-29 -- INC0832278  -- Cost OS Received to Satish User - Harvey Harris  code -- User Resloved
+
+--> Application: Unable to logon - invalid username/password
+--> Hi Harris,
+    We are looking in to your issue INC0832278. Can we call Via teams please. ? 
+    --
+    Thank you
+--> Harey is a new user, and the credentials he received from @Mark Brown aren't working. To address these issues, we followed up with Mark.
+--> Hi Harvey,
+Did Mark call you ??
+--Thank you
+
+[3:42 PM] Satish Dagudu
+All resolved thank you
+----------------------------------
+May-01 -- INC0832885  -- Cost OS Received to Satish user - Kevin John Goldie 
+
+-->  After the new update, i can login no issue however when I run a job through the system there seems to be a disconnect with the cost database and it does not pull over any rates i.e I run a cost build into the stem all the descriptors come up fine but no cost information
+-->  Hi Kevin,
+    We are looking in to your issue INC0832885 . Can we call Via teams please. ?
+    --Thank you
+-->  Comment:
+    Reset the user settings. Now the Assemblies are getting loaded. Problem is fixed. User can access all the assemblies now. Left the ticket open for observation until today 4pm UKT.
+
+--> Goldie, KevinJohn : Can we close this incident- INC0832885 please ?
+     [8:08 AM] Goldie, KevinJohn
+     Yes sorry all good
+--------------------------------------
+May-01 -- INC0832961  -- Unifier Primavera P6
+
+
+---------------------------------------------
+Primavera 24.4 Done Sucessfully 
+
+1. Change Number: CHG0060195 
+2. CTask Number: CTASK0017662
+3. Incident Number: INC0832291
+
+-- Thank you
+
+---------------------------------------------
+ Cost OS 8.3.177 To 8.3.207 Done Sucessfully --  06-May-2024
+
+1. Change Number: CHG0060407 
+2. CTask Number (Enzen): CTASK0017912
+3. CTask Number (Kndryl):CTASK0017915
+4. Incident Number: INC0834110
+5. SWO Number: SWO0013244 
+
+--------------------------------------------------
+
+Cost OS Cloud Migration started -- 14/May/2024 
+
+1. Change numner: CHG0060531
+
+1. Change Number: CHG0060531
+2. CTask Number (Enzen): 
+3. CTask Number (Kndryl):
+4. Incident Number: 
+5. SWO Number: SWO0013276 ( cancelled )
+ 
+
+---------------------------------------------------------------
+may 13 - INC0835064  -- Primavera P6 --- allocated to satish code -- auto resolved
+
+--> Software freezeing issue
+--> We are looking your incident:INC0835064. Shall I call you via team Please?
+--> guided user to install Primavera p6 from the company portal and given user preference to change 
+--> 
+-->                                              {( [] []  })   
+-->                                                   |
+________________________________________________      |  
+May 16 -- INC0835957 -- Costos functionality --allocated to Krishna   code -- 
+
+-->
+-->
+-->                                             
+
+
+
+-----------------------------------------------------
+June - 12 INC0841070 
+
+June - 12 PRB0043177 
+
+INC0842321 
+
+INC0845201
+-------------------------------------------------------
+CHG0061172 -- Costos raised as Standard request by kanupriya mittal
+CTASK0019003 -- Task for Non SAP
+
+-----------------------------------------------------------
+INC0848452  -- Gateways job failed [ awaiting user feeback ] 
+
+-- Chase call 2 
+
+ 
+ --------------------------------------------------------------------------------------------------
+
+ CHG0061643 -- Standard change for primavera stage environment
+ CTASK0019704 --  closed on 23rd July
+ 
+ 
+ 
+ ------------------------------------------------------------------------------------------------
+ INC0850155 -- cost os -- recevied to Satish 
+ 
+ 
+--------------------------------------------------------------
+
+ Primavera 24.4 to 24.7 
+ 
+ 
+ TASK0250786  -- new software will be released to all the users.
+ 
+ ----------------------------------------------------------------------------------------------------
+ 
+  Primavera 24.4 to 24.7
+
+1. Change Number: CHG0061781
+2. CTask Number: CTASK0019953
+3. Incident Number:INC0851422
+
+-- Thank you
+ ------------------------------------------------------------------------------------------------------------
+
+3-37129397471 -- need to take call and change the user.
+
+PRB0043202 -- [13/08 - last ]  oracle vendor details updated
+
+-----------------------------------------------------------------------------------------------
+PRB0043177
+
+PTASK0010948 -- [08/5 - last update]   Primavera Version - 24.7
+PTASK0010949 -- [08/5 - last update]   Primavera Version - 24.7
+
+ ----------------------------------------------------------------------------------------------------
+  
+30/July INC0851853 -- Primavera P6 Account deletion 
+
+06/Aug  INC0853038 -- Primavera P6 - ETL 1  job is failed 
+
+------------------------------------------------------------------------------------------------------------
+31/Aug INC0859294 -- Unifier interface switch ON 
+
+------------------------------------------------------------------------------------------
+
+INC0859352  - Oracle Analytics Administration ETL Job failed:  02-SEP-2024
+
+
+INC0861478 - Unable to connect the Jump servers via RDP
+
+INC0859368 - Primavera Gateway job failed: 
+
+27/sep INC0865779  -- Primavera P6 freezeing issue -- receive to krishna
+------------------------------------------------------------------------------------------
+30/ Sep INC0865954  --  Oracle Analytics Administration ETL Job failed:  30-SEP-2024
+
